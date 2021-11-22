@@ -1,1 +1,3 @@
-# UI-Color-Binder
+## Ui-Color-Picker
+
+### Get your color now!
